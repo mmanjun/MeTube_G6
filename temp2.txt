@@ -1,0 +1,47 @@
+mediarating.php --
+subscribe.php --
+addcomment.php --
+addtofavouritelist.php --
+addmediatolist.php--
+media_download_process.php--
+savelikes.php --
+searchmedia.php --d
+friend.php --
+searchProfile.php dd (modi)
+selectProfileType.php --
+viewOtherProfile.php --
+viewBlockedProfile.php --
+viewFriendProfile.php --
+viewProfile.php ??--
+messages.php -- messages not loading on one side|change in conversation neded
+mymessages.php --
+processMessage.php --
+mymetube.php -- changing uploadtimerec to mediaid
+
+categoryPage.php --
+addplaylist.php --
+allplaylist.php -- change needed, made
+createplaylistbackend.php --
+displayplaylist.php --
+channel.php --ch upload mediaid
+mychannel.php --ch upload mediaid
+creategroup.php
+groupcomment.php
+groupdiscussion.php
+
+databases:
+subscribe --
+playlists
+comments --
+favorite --
+playlistmedia--
+download--
+contact_list ??--
+conversations --
+messages ??--
+views 
+
+
+https://people.cs.clemson.edu/~jeyesm/Test%207/
+
+type="video/mp4" width="500" height="390"

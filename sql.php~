@@ -1,0 +1,15 @@
+
+<?php
+/* $dbhost = "localhost";
+$dbuser = "root";
+$dbpass = "yuanyuan0501";
+$database = "metube"
+*/
+$dbhost = "mmlab.cs.clemson.edu";
+$dbuser = "root";
+$dbpass = "\$netgear350$";
+$database = "metube";
+ 
+$cxn = mysqli_connect($dbhost, $dbuser, $dbpass,$database );
+if( $cxn === FALSE ) {  die('mysql connection error: '.mysql_error()); }
+?>
