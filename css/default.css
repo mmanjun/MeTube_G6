@@ -1,0 +1,15 @@
+/* You can implement your own css code*/
+
+#passwd_result{
+	background:#FF9900;
+	color:#FFFFFF;
+	font-weight:bold;
+	margin-right:60%;
+}
+
+#upload_result{
+	background:#CC3300;
+	color:#FFFFFF;
+	font-weight:bold;
+	margin-right:60%;
+}
